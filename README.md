@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to my GitHub Profile. 
 
-<!--
-**DickyMacias/dickymacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ricardo "Dicky" Macias. Hope you can find something interesting.
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=dickymacias&theme=radical&show_icons=true" />
+   
+Here's a little about what I'm currently up to: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am an IT Engineer
+- ⚙️ I’m currently working as a Web Engineer, developing Web apps in Ruby On Rails, PHP, JS and React.
+- 🌱 I’m currently studying a Master Degree in AI.
+- 💬 Some Fun Fact: I have studied in the Law School and Communication Science, but I found something more interesting in programming and product development. I love reading and YouTube, And I think that education is a key to progress.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e71az&layout=compact&theme=tokyonight" />
+
+If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/dickymacias/) DM or through my personal mail: maciasfusco@gmail.com
