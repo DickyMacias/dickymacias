@@ -4,7 +4,7 @@ I am Ricardo "Dicky" Macias. Hope you can find something interesting.
 
 Here's a little about what I'm currently up to: 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickymacias&layout=compact&theme=tokyonight" />
+<img align="right" src="[![Dicky's github stats] https://github-readme-stats.vercel.app/api/top-langs/?username=dickymacias&layout=compact&theme=dark" />
 
 - 💻 I am an IT Engineer
 - ⚙️ I’m currently working as a Web Engineer, developing Web apps in Ruby On Rails, PHP, JS and React.
