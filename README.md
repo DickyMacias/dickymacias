@@ -11,6 +11,4 @@ Here's a little about what I'm currently up to:
 
 If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/dickymacias/) DM or through my personal mail: maciasfusco@gmail.com
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=dickymacias&theme=radical&show_icons=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e71az&layout=compact&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=dickymacias&theme=radical&show_icons=true" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e71az&layout=compact&theme=tokyonight" />
